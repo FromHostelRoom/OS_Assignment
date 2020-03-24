@@ -1,5 +1,5 @@
 Solution:-
-e know how to find an effective access time (EAT) for a given page-fault rate (p). 
+We know how to find an effective access time (EAT) for a given page-fault rate (p). 
 Here, we have to find 'p' for given 'EAT' so we set up the following equation and solve for 'p':
 (Note: 1 millisecond = 1,000,000 nanoseconds = 1e6 nanoseconds)
 Time taken to service page Fault for empty page or unmodified page = 8ms.
